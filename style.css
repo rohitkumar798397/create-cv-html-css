@@ -1,0 +1,36 @@
+body{
+    /* background-color: antiquewhite; */
+}
+.main{
+    height: 500px;
+    width: 800px;
+    /* border: 2px solid black; */
+    background-color: antiquewhite; 
+    margin-left: 296px; 
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.main1{
+    height: 793px;
+    width: 800px;
+    /* border: 2px solid black; */
+    background-color: antiquewhite;
+    margin-top: -19px;
+    margin-left: 296px; 
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+    hr{
+        background-color: white; 
+         /* border-style: none;  */
+         height: 2px;
+    }
+    h1{
+        color:#19A7CE;
+    }
+    h2{
+        color:#19A7CE;
+    }
+    h3{
+        color:#19A7CE;
+    }
